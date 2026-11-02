@@ -7,8 +7,8 @@ export const portfolio = {
   bio: 'I build intelligent products at the intersection of machine learning, generative AI, and real-world data.',
   photo: '/profile.jpg',
   links: {
-    github: 'https://github.com/your-username',
-    linkedin: 'https://www.linkedin.com/in/your-username/',
+    github: 'https://github.com/Jyothi112003/',
+    linkedin: 'https://www.linkedin.com/in/jyothi-matad-s',
     resume: '#contact',
   },
   stats: [
